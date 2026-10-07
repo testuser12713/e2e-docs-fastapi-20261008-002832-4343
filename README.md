@@ -9,7 +9,7 @@ sinnvolle Vorgaben und können per Umgebungsvariable überschrieben werden.
 
 ## Tech Stack
 
-- **Sprache:** Python 3.13
+- **Sprache:** Python 3.12+
 - **Framework:** FastAPI
 - **Validierung:** Pydantic v2 (`model_config`, `field_validator`)
 - **Konfiguration:** pydantic-settings (`BaseSettings`)
